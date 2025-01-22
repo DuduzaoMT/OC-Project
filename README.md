@@ -1,2 +1,3 @@
 # OC-Project
-Cache for OC (Computer Organization)
+
+Development of caches with different approaches and structures
